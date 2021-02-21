@@ -1,0 +1,12 @@
+Server: nginx
+Date: Sat, 20 Feb 2021 22:32:29 GMT
+Content-Type: text/html; charset=utf-8
+Location: /register/?next=/user/columns/%3Fnext%3D/screens/119/search-for-value-stock/%253Fpage%253D5
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+Vary: Cookie
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload

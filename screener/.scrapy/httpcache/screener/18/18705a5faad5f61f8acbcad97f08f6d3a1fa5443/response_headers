@@ -1,0 +1,14 @@
+Server: nginx
+Date: Sat, 20 Feb 2021 20:58:30 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=wmnY2kRQsSM1PdusrXgkg1EWb621ZBl2W5R7KkGPQKwqjdnqTLKKofUe74l3mV3Z; expires=Sat, 19 Feb 2022 20:58:30 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Encoding: gzip

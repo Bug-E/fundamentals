@@ -1,0 +1,12 @@
+Server: nginx
+Date: Sun, 21 Feb 2021 04:13:32 GMT
+Content-Type: text/html; charset=utf-8
+Location: /register/?next=/user/columns/%3Fnext%3D/screens/125495/PEG-Ratio/%253Fpage%253D34
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+Vary: Cookie
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload

@@ -1,0 +1,13 @@
+Server: nginx
+Date: Sat, 20 Feb 2021 16:45:58 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Encoding: gzip
